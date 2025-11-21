@@ -5,7 +5,6 @@ A lightweight automation suite for the Push Chain ecosystem, focused on testnet 
 
 - Node.js
 - Private keys for the wallets you intend to use (stored in `privateKeys.json`).
-- [Push Chain Faucet](https://faucet.push.org/)
 
 ## Menu
 ```
